@@ -1,0 +1,92 @@
+h1 {
+  text-align: center;
+  padding: 5rem 5rem 3rem;
+  font-family: 'Ranchers', cursive;
+}
+h2 {
+  font-family: 'Libre Baskerville', serif;
+}
+.middle {
+  text-align: center;
+  padding-left: 1.5rem;
+  margin-right: 5rem;
+  margin-left: 3.5rem;
+  padding-top: 0.5rem;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.nav-link {
+  color: #2f2519;
+  font-family: 'Do Hyeon', sans-serif;
+}
+.navbar {
+  background-color: #e1ffc2;
+  
+}
+.navbar-brand {
+  color: #2f2519;
+  padding-left: 0,5rem;
+}
+.nav-item {
+  margin: 0.5rem;
+  
+}
+.navbar-toggler {
+  background-color: #ff9a76;
+}
+body {
+  background-color:#feceab;
+}
+
+.game {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  top: 75px;
+  right: 16rem;
+  
+}
+#testimonials {
+  background-color: white;
+  text-align: center;
+  position: relative;
+  padding: 7% 15%;
+  margin-top: 12rem;
+}
+.love {
+  width: 20%;
+  margin-top: 1.5rem;
+}
+.drum {
+  width: 20%;
+  margin-top: 1.5rem;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color:pink;
+}
+.dices {
+  width: 20%;
+  margin-top: 1.5rem;
+}
+.memory {
+  width: 30%;
+  margin-top: 1.5rem;
+}
+#footer {
+  background-color: #cceabb;
+  text-align: center;
+  padding: 2% 15%; 
+}
+
+@media (max-width:1028px ) {
+  #title {text-align: center;}
+   .game {
+  position: static;
+  transform: rotate(0);
+}
+}
+.btn {
+  color: #e84a5f;
+  text-align: center;
+  margin-left: 18rem;
+}

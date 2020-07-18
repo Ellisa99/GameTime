@@ -1,0 +1,29 @@
+body {
+  background-color: #ff847c;
+}
+h1, h2 {
+  color: #393e46;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  padding: 4% 15%;
+}
+.name {
+  padding-top: 7%;
+  padding-left: 27%;
+}
+.name1 {
+  margin-right: 2rem;
+}
+.Oname, .Tname {
+  font-family: 'Libre Baskerville', serif;
+  color: #393e46;
+}
+.btn {
+  background-color: #ffa5b0;
+}
+.love {
+  padding-left: 40% ;
+  width: 20%;
+  height: 10%;
+  margin-top: 3rem;
+}
